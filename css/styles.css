@@ -251,3 +251,9 @@ main {
 .divider {
   color: #000000;
 }
+
+
+.warning {
+  color: red;
+  font-size: 12px;
+}
